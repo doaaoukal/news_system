@@ -14,11 +14,11 @@ Experience the live system hosted on the cloud:
 To review the dashboard features instantly without creating a new account, you can use any of the following pre-registered credentials:
 
 ### 👤 Account 1:
-* **Email:** `doaa123@gmail.com`
+* **Email:** `samaroukal@gmail.com`
 * **Password:** `123456`
 
 ### 👤 Account 2:
-* **Email:** `doaaoukal@gmail.com`
+* **Email:** `doaa123@gmail.com`
 * **Password:** `123456`
 
 ---
